@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import swift4Framework
 
 class ViewController: UIViewController {
 
@@ -20,6 +21,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-
+    let s : swift4 = swift4()
 }
 

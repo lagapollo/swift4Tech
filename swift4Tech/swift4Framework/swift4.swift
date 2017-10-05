@@ -10,5 +10,5 @@ import Foundation
 
 
 public class swift4 {
-    
+    let heeloWorld = "Hello world from Swift 4"
 }
